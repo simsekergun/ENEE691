@@ -1,0 +1,3 @@
+function y = funct3(x,alphas)
+y = alphas(1)*x.^2.*(exp(-(x-alphas(2)).^2/alphas(3)^2))...
+    ./(1+alphas(4)*x.^2)-alphas(5);
