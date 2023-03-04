@@ -1,22 +1,2 @@
 Logistic Regression
 Lecture notes, slides, notebooks, and dataset
-
-### About the dataset: "RingResonatorData.csv"
-Size: 5750 x 5 
-
-The microring with a outer radius R and ring width RW is 
-separated by a gap G from the coupling waveguide of width W. 
-To increase the interaction length between the waveguide and the ring, 
-the waveguide is wrapped around the microring, resulting in a pulley coupling design. 
-Ring radius and height are fixed to 80 um and 410 nm, respectively. 
-Table below lists minimum, maximum, and step size values for RW, W, G, and Lc.
-
-RW =  [ 855 nm : 10 nm : 895 nm]
-W  =  [ 550 nm : 25 nm : 650 nm]
-G  =  [ 100 nm : 50 nm : 300 nm]
-Lc =  [   5 um :  1 um :  50 um]
-
-The fifth column is either 0 or 1. 
-O means there is no peak in the Qc spectrum.
-1 means there is at least one peak in the Qc spectrum.
-where Qc represents the coupling efficiency between the waveguide and the ring resonator.
