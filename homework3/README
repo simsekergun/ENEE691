@@ -1,7 +1,7 @@
 Assignment and datafiles
 
 ### Aboout the Dataset.
-Reflectance_X_train.csv has 244 columnns as follows.
+Reflectance_X_train.csv has 244 columns as follows.
 (a) Columns 1-61: reflectance data as a function of incidence angle (from 0 degrees to 60 degrees)
 of p-polarized 400 nm laser from a material with a thickness of 0.7 nm placed on top of a 
 SiO2/silicon substrate, 
@@ -9,7 +9,7 @@ SiO2/silicon substrate,
 (c) Columns 123-183: similar to (a) for a glass substrate,
 (d) Columns 184:244: similar to (c) for s-polarized laser.
 
-Each row corresonds to a unique (n, k)-pair given in Reflectance_Y_train.csv. 
+Each row corresponds to a unique (n, k)-pair given in Reflectance_Y_train.csv. 
 
 Your task is finding the (n, k) values for the reflectance data given in 
 Reflectance_X_test.csv, which is in the same form as the Reflectance_X_train.csv.
