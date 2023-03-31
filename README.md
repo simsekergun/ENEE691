@@ -1,5 +1,4 @@
-# ENEE691
-Slides, Jupyter Notebooks, Matlab Codes used in ENEE 691 Machine Learning and Photonics
+# ENEE691 Machine Learning and Photonics
 
 <p><strong>Instructor:</strong> Dr. Ergun Simsek</p>
 <p>E-mail: <a href="mailto:simsek@umbc.edu">simsek@umbc.edu</a></p>
